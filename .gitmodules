@@ -1,0 +1,3 @@
+[submodule "uit-fitts-law"]
+	path = uit-fitts-law
+	url = https://github.com/tanvach/uit-fitts-law.git
